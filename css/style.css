@@ -13,3 +13,28 @@ body {
     height: 100vh;
 
 }
+
+#modal {
+    width: 35%;
+    height: 35%;
+    position: fixed;
+    left: 32.5%;
+    top: 32.5%;
+    background-color: azure;
+    padding: 0.5%;
+}
+
+#info{
+    padding: 0.5%;
+}
+
+#divButton {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+}
+
+#divButton button{
+  margin: 2%;
+}
